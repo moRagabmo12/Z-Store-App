@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:z_store_app/features/splash_view/presentation/splash_view.dart';
+import 'package:z_store_app/features/splash_view/presentation/views/splash_view.dart';
 
 void main() {
   runApp(ZStoreApp());
